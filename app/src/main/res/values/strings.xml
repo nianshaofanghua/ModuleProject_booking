@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">钱管家记账</string>
+    <string name="f1">花管家</string>
+    <string name="f2">存管家</string>
+    <string name="f3">个人中心</string>
+
+</resources>
